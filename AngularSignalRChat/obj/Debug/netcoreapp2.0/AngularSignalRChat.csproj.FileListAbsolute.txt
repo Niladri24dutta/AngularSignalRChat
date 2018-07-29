@@ -1,0 +1,12 @@
+C:\Users\Nilud\Documents\Visual Studio 2017\Projects\AngularSignalRChat\AngularSignalRChat\bin\Debug\netcoreapp2.0\AngularSignalRChat.deps.json
+C:\Users\Nilud\Documents\Visual Studio 2017\Projects\AngularSignalRChat\AngularSignalRChat\bin\Debug\netcoreapp2.0\AngularSignalRChat.runtimeconfig.json
+C:\Users\Nilud\Documents\Visual Studio 2017\Projects\AngularSignalRChat\AngularSignalRChat\bin\Debug\netcoreapp2.0\AngularSignalRChat.runtimeconfig.dev.json
+C:\Users\Nilud\Documents\Visual Studio 2017\Projects\AngularSignalRChat\AngularSignalRChat\bin\Debug\netcoreapp2.0\AngularSignalRChat.dll
+C:\Users\Nilud\Documents\Visual Studio 2017\Projects\AngularSignalRChat\AngularSignalRChat\bin\Debug\netcoreapp2.0\AngularSignalRChat.pdb
+C:\Users\Nilud\Documents\Visual Studio 2017\Projects\AngularSignalRChat\AngularSignalRChat\obj\Debug\netcoreapp2.0\AngularSignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\Nilud\Documents\Visual Studio 2017\Projects\AngularSignalRChat\AngularSignalRChat\obj\Debug\netcoreapp2.0\AngularSignalRChat.csproj.CoreCompileInputs.cache
+C:\Users\Nilud\Documents\Visual Studio 2017\Projects\AngularSignalRChat\AngularSignalRChat\obj\Debug\netcoreapp2.0\AngularSignalRChat.AssemblyInfoInputs.cache
+C:\Users\Nilud\Documents\Visual Studio 2017\Projects\AngularSignalRChat\AngularSignalRChat\obj\Debug\netcoreapp2.0\AngularSignalRChat.AssemblyInfo.cs
+C:\Users\Nilud\Documents\Visual Studio 2017\Projects\AngularSignalRChat\AngularSignalRChat\obj\Debug\netcoreapp2.0\AngularSignalRChat.dll
+C:\Users\Nilud\Documents\Visual Studio 2017\Projects\AngularSignalRChat\AngularSignalRChat\obj\Debug\netcoreapp2.0\AngularSignalRChat.pdb
+C:\Users\Nilud\Documents\Visual Studio 2017\Projects\AngularSignalRChat\AngularSignalRChat\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
